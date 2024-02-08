@@ -34,7 +34,39 @@
 
 [JS逆向-逗号表达式](https://www.bilibili.com/video/BV1Lg4y1r7fo/)
 
-2024`JS`逆向零基础进阶实战课程
+[[禁止右键，无限Debugger，数据加密，JS逆向](https://www.bilibili.com/video/BV17X4y1G7tX/)]
+
+[网易云音乐JS逆向](https://www.bilibili.com/video/BV1ib4y1D7Ps/)
+
+[JS混淆代码还原、JJEncode、AAEncode、JSFuck](https://www.bilibili.com/video/BV1aU4y1m7hQ/)
+
+[JS逆向课程完整](https://www.bilibili.com/video/BV1Ah4y1s7kT/)
+
+[JS逆向RPC远程调用数据解密](https://www.bilibili.com/video/BV1Mg4y1H7q3/)
+
+[JS自动化通杀逆向](https://www.bilibili.com/video/BV1v34y1P7tu/)
+
+[JS逆向实战分析](https://www.bilibili.com/video/BV1vH4y1Q7WQ/)
+
+[JSHOOK定位解密运算符优先级](https://www.bilibili.com/video/BV1Rh4y1A76n/)
+
+[无限debugger通杀方案](https://www.bilibili.com/video/BV1nV411N7Rd/)
+
+[JS逆向JWT加密认证](https://www.bilibili.com/video/BV1B84y1D7uf/)
+
+[API接口签名和数据加密](https://www.bilibili.com/video/BV1qe411Z7wQ/)
+
+[JS逆向补环境插件](https://www.bilibili.com/video/BV1jC4y1d7Hx/)
+
+[JS逆向无限debugger](https://www.bilibili.com/video/BV12p4y1d7i7/)
+
+[AST抽象语法树还原混淆代码](https://www.bilibili.com/video/BV1y94y1w7vq/)
+
+[JA3浏览器指纹校验](https://www.bilibili.com/video/BV1cK411b7XY/)
+
+[JS逆向实战，函数参数接收](https://www.bilibili.com/video/BV1mi4y1B7dY/)
+
+2024`JS`逆向零基础进阶实战课程，大量丰富实战案例
 
 联系：3041439327
 
