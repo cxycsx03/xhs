@@ -24,15 +24,15 @@
 
 [有道翻译最新逆向](https://www.bilibili.com/video/BV1e64y1J73g/?share_source=copy_web&vd_source=fe0c4e0af0c2a377d15b9296956a34eb)
 
-[IP接口查询分析][https://www.bilibili.com/video/BV15K421y7cv/]
+[IP接口查询分析](https://www.bilibili.com/video/BV15K421y7cv/)
 
-[JS逆向异步跟栈&Webpack打包实战][https://www.bilibili.com/video/BV1MA4m1j7hU/]
+[JS逆向异步跟栈&Webpack打包实战](https://www.bilibili.com/video/BV1MA4m1j7hU/)
 
-[JS逆向-Python字典取值][https://www.bilibili.com/video/BV13x4y117SH/]
+[JS逆向-Python字典取值](https://www.bilibili.com/video/BV13x4y117SH/)
 
-[JS逆向-函数调用的几种方式][https://www.bilibili.com/video/BV1ci4y1z7xF/]
+[JS逆向-函数调用的几种方式](https://www.bilibili.com/video/BV1ci4y1z7xF/)
 
-[JS逆向-逗号表达式][https://www.bilibili.com/video/BV1Lg4y1r7fo/]
+[JS逆向-逗号表达式](https://www.bilibili.com/video/BV1Lg4y1r7fo/)
 
 2024`JS`逆向零基础进阶实战课程
 
