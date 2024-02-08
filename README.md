@@ -1,5 +1,13 @@
 # JS逆向实战精讲
 
+2024`JS`逆向零基础进阶实战课程，大量丰富实战案例
+
+联系：3041439327
+
+微信：wanzhuancode
+
+**B站免费公开课**
+
 [JS逆向实战持续更新](https://www.bilibili.com/video/BV1NH4y1Y7D7/?share_source=copy_web&vd_source=fe0c4e0af0c2a377d15b9296956a34eb)
 
 [JS逆向滑块验证码识别](https://www.bilibili.com/video/BV1WN4y1J7rz/)
@@ -66,8 +74,3 @@
 
 [JS逆向实战，函数参数接收](https://www.bilibili.com/video/BV1mi4y1B7dY/)
 
-2024`JS`逆向零基础进阶实战课程，大量丰富实战案例
-
-联系：3041439327
-
-微信：wanzhuancode
